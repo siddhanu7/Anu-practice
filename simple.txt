@@ -7,7 +7,9 @@ Flags
 
 city
 
+State 
+
+zip code
+
 country
-
-
 
