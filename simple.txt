@@ -12,4 +12,7 @@ State
 zip code
 
 country
+queen city 
+county
 
+south region and teh changes have been made
